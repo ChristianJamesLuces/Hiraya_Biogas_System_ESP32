@@ -35,7 +35,7 @@ const int MOTOR_RUN_MINUTES = 6;
 const int WAKE_HOUR = 7;  const int WAKE_MIN = 15;
 
 // --- ⚠️ ALARM THRESHOLDS ---
-const float TEMP_NOTGOOD_LOW  = 50.0;
+const float TEMP_NOTGOOD_LOW  = 46.0;
 const float TEMP_NOTGOOD_HIGH = 60.0;
 const float TEMP_BAD          = 60.0;
 
